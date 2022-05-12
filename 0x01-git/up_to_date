@@ -1,0 +1,1 @@
+git log --follow -p -- README.md
